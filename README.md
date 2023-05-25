@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently enjoying creating things in [GO]!!!
+- 🌱 I’m currently enjoying creating things in [Go]!!!
 
 <p align="center">
   <a href="https://linkedin.com/in/hasanhakkaev" target="blank">
@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 </p>
 
 ---
+
+[go]: https://go.dev/
