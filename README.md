@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🌱 I’m currently enjoying creating things in [Go]!!!
+- I am a software engineer with passion for DevOps, Kubernetes and Infrastructure.
+
 
 <p align="center">
   <a href="https://linkedin.com/in/hasanhakkaev" target="blank">
